@@ -16,5 +16,4 @@ The themes of each Homework is summarized in this list:
 1. Homework 1: **Filtering spam messages with Naive Bayes**
 2. Homework 2: **A clustering problem with a Gaussian Mixture Model**
 3. Homework 3: **Evaluation and Decoding problems with a Hidden Markov Model**
-4. Homework 4: *Coming soon*
 
