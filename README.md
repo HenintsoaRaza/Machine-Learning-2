@@ -11,7 +11,7 @@ The authors of this work are :
 
 
 
-The themes of each Homework is summarized in this list:
+The themes of each Homework can be summarized in this list:
 
 1. Homework 1: **Filtering spam messages with Naive Bayes**
 2. Homework 2: **A clustering problem with a Gaussian Mixture Model**
